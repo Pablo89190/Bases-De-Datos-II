@@ -75,3 +75,5 @@ CREATE TABLE DetalleNomina (
         REFERENCES Nomina(IdNomina)
 );
 GO
+
+/Esto es un coment/
